@@ -1,0 +1,8 @@
+CPSC 1070 is \n\tterrific!
+CPSC 1070 is $\n$\tterrific!
+CPSC 1070 is $
+$	terrific!
+CPSC 1070 is $
+$	terrific!
+CPSC 1070 is 
+	terrific!
